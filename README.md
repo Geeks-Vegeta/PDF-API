@@ -7,7 +7,7 @@ Please Feel Free To Contribute your API's 🤟
 
 step 1: **Clone Repo**
 ```bash
-git clone https://github.com/Geeks-Vegeta/Comix-API.git
+git clone https://github.com/Geeks-Vegeta/PDF-API.git
 ```
 
 step 2: **Create Virtual env**
@@ -38,7 +38,7 @@ These steps will guide you through contributing to this project:
 * Clone it and install dependencies
 
 ```
-  git clone https://github.com/Geeks-Vegeta/Comix-API.git
+  git clone https://github.com/Geeks-Vegeta/PDF-API.git
   pip install -r requirements.txt
 ```
 
